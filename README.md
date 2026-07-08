@@ -1,9 +1,8 @@
-[![Ahmed-AbdelSamie-Owais-Hassan
-](https://ar.pngtree.com/free-backgrounds-photos/%D9%83%D9%88%D8%AF)
+ <img src="https://png.pngtree.com/thumb_back/fh260/background/20240610/pngtree-computer-of-a-programmer-with-lines-code-of-software-image_15746000.jpg" width="100%" >
 
-# <h1  align="center">
+<h1  align="center">
 
-  Hi There I'm  AhmedAbdelSamieOwaisHassan
+  Hi There I'm -  AhmedAbdelSamieOwaisHassan
  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
@@ -13,13 +12,17 @@
 I have over two years of professional experience in frontend development, having worked on a diverse range of projects—from websites for small businesses to large-scale university systems. I hold a degree in Software Engineering and Computer Science from Cairo University and possess a strong foundation in Object-Oriented Programming (OOP).
 
 I am currently focusing on learning backend development using PHP and the Laravel framework, leveraging tutorials, open-source projects, and hands-on project work to further enhance and develop my skills.
+
 ---
 
-## 🍋  What I am currently working on
-
+## 🍋 What I am currently working on
+---
 1- Completing postgraduate studies in Computer Science at Cairo University
+
 2- Learning backend development using PHP (Laravel framework)
+
 3- Deepening my knowledge of software development in general
+
 ---
 
 ## ✨ Core Skills
