@@ -1,7 +1,8 @@
 ![Ahmed-AbdelSamie-Owais-Hassan
-](ajh-readme-low-poly.png)
+](https://ar.pngtree.com/free-backgrounds-photos/%D9%83%D9%88%D8%AF)
 
-# <h1>
+# <h1  align="center">
+
   Hi There I'm  AhmedAbdelSamieOwaisHassan
  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -16,7 +17,6 @@ I am currently focusing on learning backend development using PHP and the Larave
 
 ## 🍋  What I am currently working on
 
--
 1- Completing postgraduate studies in Computer Science at Cairo University
 2- Learning backend development using PHP (Laravel framework)
 3- Deepening my knowledge of software development in general
