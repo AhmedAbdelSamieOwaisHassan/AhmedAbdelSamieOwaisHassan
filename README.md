@@ -117,5 +117,3 @@ Your support enables me to dedicate more time to creating high-quality, impactfu
 </div>
 
 ---
-
-](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
