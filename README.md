@@ -99,7 +99,7 @@ Your support enables me to dedicate more time to creating high-quality, impactfu
 
 <div align="center">
 
-[![LinkedIn](https://www.linkedin.com/in/ahmed-abdel-samie-owais/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdel-samie-owais/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ahmedabdalsmia67@gmail.com)
 
