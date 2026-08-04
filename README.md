@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-## 🌱 I'm  a Software Engineer • Frontend Developer ( React.JS & Next.JS ) Using Styles (Tailwind Css) •
+## 🌱 I'm  a Software Engineer • Frontend Developer ( React.JS & Next.JS )  •
 
 I have over two years of professional experience in frontend development, having worked on a diverse range of projects—from websites for small businesses to large-scale university systems. I hold a degree in Software Engineering and Computer Science from Cairo University and possess a strong foundation in Object-Oriented Programming (OOP).
 
